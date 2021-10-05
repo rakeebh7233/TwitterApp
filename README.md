@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/mXEO7jQ.gif)
+![alt_text](https://imgur.com/a/mXEO7jQ.gif)
